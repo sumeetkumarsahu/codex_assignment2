@@ -5,7 +5,7 @@ public class Question_6
 
 	public static void main(String[] args) 
 	{
-		int i,j,num1,sum1=0;
+		int i,num1,sum1=0;
 		int sum2=0;
 		for(i=1;i<=100;i++)
 		{
